@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcf5f60e-ec63-4b0f-a462-521d7f73a707" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="2MRW2FwgdnKoOWinZBFo1ZRoPt6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Web Project\SamjhoQuran\assets\vendor\swiper" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcf5f60e-ec63-4b0f-a462-521d7f73a707" name="Default Changelist" comment="" />
+      <created>1677730665551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677730665551</updated>
+      <workItem from="1677730667013" duration="157000" />
+      <workItem from="1677730840405" duration="3440000" />
+      <workItem from="1677735286706" duration="2589000" />
+      <workItem from="1678077590286" duration="304000" />
+      <workItem from="1678443970869" duration="291000" />
+      <workItem from="1678699206811" duration="722000" />
+      <workItem from="1679051169250" duration="1857000" />
+      <workItem from="1679742666574" duration="3208000" />
+      <workItem from="1680707645266" duration="2234000" />
+      <workItem from="1680988626065" duration="3227000" />
+      <workItem from="1681385834842" duration="4433000" />
+      <workItem from="1681738822955" duration="3713000" />
+      <workItem from="1682015209178" duration="58000" />
+      <workItem from="1682015328883" duration="1587000" />
+      <workItem from="1682026911825" duration="6528000" />
+      <workItem from="1682035041334" duration="886000" />
+      <workItem from="1682529644979" duration="14051000" />
+      <workItem from="1682838462199" duration="120000" />
+      <workItem from="1687547492075" duration="3955000" />
+      <workItem from="1690277928976" duration="3553000" />
+      <workItem from="1693652036233" duration="1857000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1693652040168">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="416" y="255" key="com.intellij.ide.util.TipDialog/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1693652040168" />
+  </component>
+</project>
